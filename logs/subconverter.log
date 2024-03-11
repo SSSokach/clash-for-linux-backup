@@ -1,0 +1,140 @@
+2024/03/07 Thu 20:35:58.078090 [3464338 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/03/07 Thu 20:35:58.079267 [3464338 10739128][INFO] Reading preference settings...
+2024/03/07 Thu 20:35:58.100174 [3464338 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:35:58.100553 [3464338 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/03/07 Thu 20:35:58.100874 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:35:58.101346 [3464338 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/03/07 Thu 20:35:58.102128 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/03/07 Thu 20:35:58.102245 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/03/07 Thu 20:35:58.102622 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/03/07 Thu 20:35:58.102869 [3464338 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:35:58.103489 [3464338 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:35:58.103722 [3464338 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:35:58.103973 [3464338 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:35:58.104256 [3464338 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:35:58.104520 [3464338 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:35:58.104723 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/03/07 Thu 20:35:58.104876 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/03/07 Thu 20:35:58.105197 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/03/07 Thu 20:35:58.105565 [3464338 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:35:58.105855 [3464338 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:35:58.106060 [3464338 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/03/07 Thu 20:35:58.106088 [3464338 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/03/07 Thu 20:35:58.106126 [3464338 10739128][INFO] Reading generator configuration...
+2024/03/07 Thu 20:35:58.106215 [3464338 10739128][INFO] Read generator configuration completed.
+
+2024/03/07 Thu 20:35:58.106225 [3464338 10739128][INFO] Generating all artifacts...
+2024/03/07 Thu 20:35:58.106234 [3464338 10739128][INFO] Generating artifact 'test'...
+2024/03/07 Thu 20:35:58.106282 [3464338 10739128][VERB] Imported 0 item(s).
+2024/03/07 Thu 20:35:58.106327 [3464338 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/03/07 Thu 20:35:58.107310 [3464338 10739128][VERB] Received Link.
+2024/03/07 Thu 20:35:58.107329 [3464338 10739128][VERB] Parsing configuration file data...
+2024/03/07 Thu 20:35:58.108424 [3464338 10739128][VERB] Node  SSProvider - 香港 03  has been added.
+2024/03/07 Thu 20:35:58.108447 [3464338 10739128][VERB] Node  SSProvider - 香港 01  has been added.
+2024/03/07 Thu 20:35:58.108471 [3464338 10739128][VERB] Node  SSProvider - 香港 02  has been added.
+2024/03/07 Thu 20:35:58.108489 [3464338 10739128][VERB] Node  SSProvider - 台湾 01  has been added.
+2024/03/07 Thu 20:35:58.108507 [3464338 10739128][VERB] Node  SSProvider - 台湾 02  has been added.
+2024/03/07 Thu 20:35:58.108525 [3464338 10739128][VERB] Node  SSProvider - 台湾 03  has been added.
+2024/03/07 Thu 20:35:58.108544 [3464338 10739128][VERB] Node  SSProvider - 日本 01 ChatGPT  has been added.
+2024/03/07 Thu 20:35:58.108562 [3464338 10739128][VERB] Node  SSProvider - 新加坡 01  has been added.
+2024/03/07 Thu 20:35:58.108580 [3464338 10739128][VERB] Node  SSProvider - 新加坡 02  has been added.
+2024/03/07 Thu 20:35:58.108598 [3464338 10739128][VERB] Node  SSProvider - 美国 01 ChatGPT  has been added.
+2024/03/07 Thu 20:35:58.108616 [3464338 10739128][VERB] Node  SSProvider - 芬兰 01  has been added.
+2024/03/07 Thu 20:35:58.108634 [3464338 10739128][VERB] Node  SSProvider - 德国 01  has been added.
+2024/03/07 Thu 20:35:58.108652 [3464338 10739128][VERB] Node  SSProvider - 印度 01  has been added.
+2024/03/07 Thu 20:35:58.108671 [3464338 10739128][VERB] Node  SSProvider - 澳大利亚 01  has been added.
+2024/03/07 Thu 20:35:58.108689 [3464338 10739128][VERB] Node  SSProvider - 香港 10  has been added.
+2024/03/07 Thu 20:35:58.108707 [3464338 10739128][VERB] Node  SSProvider - 香港 11  has been added.
+2024/03/07 Thu 20:35:58.108726 [3464338 10739128][VERB] Node  SSProvider - 🏷官网：eevpn.com  has been ignored and will not be added.
+2024/03/07 Thu 20:35:58.108747 [3464338 10739128][VERB] Node  SSProvider - 🏷国内免翻：55jiasu.com  has been added.
+2024/03/07 Thu 20:35:58.108766 [3464338 10739128][VERB] Node  SSProvider - 🏷邀请朋友获得20%佣金奖励  has been added.
+2024/03/07 Thu 20:35:58.108779 [3464338 10739128][VERB] Filter done.
+2024/03/07 Thu 20:35:58.109098 [3464338 10739128][INFO] Generate target: Clash
+2024/03/07 Thu 20:35:58.122944 [3464338 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2024/03/07 Thu 20:35:58.123758 [3464338 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2024/03/07 Thu 20:35:58.126400 [3464338 10739128][INFO] Generate completed.
+2024/03/07 Thu 20:35:58.129408 [3464338 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/03/07 Thu 20:35:58.129421 [3464338 10739128][INFO] Generating artifact 'test_profile'...
+2024/03/07 Thu 20:35:58.129669 [3464338 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/03/07 Thu 20:35:58.129688 [3464338 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/03/07 Thu 20:35:58.129769 [3464338 10739128][VERB] Imported 0 item(s).
+2024/03/07 Thu 20:35:58.129792 [3464338 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/03/07 Thu 20:35:58.130758 [3464338 10739128][VERB] Received Link.
+2024/03/07 Thu 20:35:58.130916 [3464338 10739128][INFO] Generate target: Clash
+2024/03/07 Thu 20:35:58.143892 [3464338 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2024/03/07 Thu 20:35:58.144731 [3464338 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2024/03/07 Thu 20:35:58.146319 [3464338 10739128][INFO] Generate completed.
+2024/03/07 Thu 20:35:58.148944 [3464338 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/03/07 Thu 20:35:58.148956 [3464338 10739128][INFO] All artifact generated. Exiting...
+2024/03/07 Thu 20:37:08.356409 [3464592 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/03/07 Thu 20:37:08.357721 [3464592 10739128][INFO] Reading preference settings...
+2024/03/07 Thu 20:37:08.380050 [3464592 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:37:08.380436 [3464592 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/03/07 Thu 20:37:08.380756 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:37:08.381216 [3464592 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/03/07 Thu 20:37:08.381990 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/03/07 Thu 20:37:08.382030 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/03/07 Thu 20:37:08.382384 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/03/07 Thu 20:37:08.382701 [3464592 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:37:08.383279 [3464592 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:37:08.383511 [3464592 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:37:08.383797 [3464592 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:37:08.384049 [3464592 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:37:08.384332 [3464592 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/03/07 Thu 20:37:08.384558 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/03/07 Thu 20:37:08.384652 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/03/07 Thu 20:37:08.384941 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/03/07 Thu 20:37:08.385286 [3464592 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:37:08.385558 [3464592 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/03/07 Thu 20:37:08.385801 [3464592 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/03/07 Thu 20:37:08.385836 [3464592 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/03/07 Thu 20:37:08.385879 [3464592 10739128][INFO] Reading generator configuration...
+2024/03/07 Thu 20:37:08.385971 [3464592 10739128][INFO] Read generator configuration completed.
+
+2024/03/07 Thu 20:37:08.385981 [3464592 10739128][INFO] Generating all artifacts...
+2024/03/07 Thu 20:37:08.385990 [3464592 10739128][INFO] Generating artifact 'test'...
+2024/03/07 Thu 20:37:08.386037 [3464592 10739128][VERB] Imported 0 item(s).
+2024/03/07 Thu 20:37:08.386084 [3464592 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/03/07 Thu 20:37:08.387070 [3464592 10739128][VERB] Received Link.
+2024/03/07 Thu 20:37:08.387088 [3464592 10739128][VERB] Parsing configuration file data...
+2024/03/07 Thu 20:37:08.388185 [3464592 10739128][VERB] Node  SSProvider - 香港 03  has been added.
+2024/03/07 Thu 20:37:08.388208 [3464592 10739128][VERB] Node  SSProvider - 香港 01  has been added.
+2024/03/07 Thu 20:37:08.388227 [3464592 10739128][VERB] Node  SSProvider - 香港 02  has been added.
+2024/03/07 Thu 20:37:08.388245 [3464592 10739128][VERB] Node  SSProvider - 台湾 01  has been added.
+2024/03/07 Thu 20:37:08.388268 [3464592 10739128][VERB] Node  SSProvider - 台湾 02  has been added.
+2024/03/07 Thu 20:37:08.388286 [3464592 10739128][VERB] Node  SSProvider - 台湾 03  has been added.
+2024/03/07 Thu 20:37:08.388305 [3464592 10739128][VERB] Node  SSProvider - 日本 01 ChatGPT  has been added.
+2024/03/07 Thu 20:37:08.388323 [3464592 10739128][VERB] Node  SSProvider - 新加坡 01  has been added.
+2024/03/07 Thu 20:37:08.388342 [3464592 10739128][VERB] Node  SSProvider - 新加坡 02  has been added.
+2024/03/07 Thu 20:37:08.388360 [3464592 10739128][VERB] Node  SSProvider - 美国 01 ChatGPT  has been added.
+2024/03/07 Thu 20:37:08.388378 [3464592 10739128][VERB] Node  SSProvider - 芬兰 01  has been added.
+2024/03/07 Thu 20:37:08.388396 [3464592 10739128][VERB] Node  SSProvider - 德国 01  has been added.
+2024/03/07 Thu 20:37:08.388414 [3464592 10739128][VERB] Node  SSProvider - 印度 01  has been added.
+2024/03/07 Thu 20:37:08.388433 [3464592 10739128][VERB] Node  SSProvider - 澳大利亚 01  has been added.
+2024/03/07 Thu 20:37:08.388451 [3464592 10739128][VERB] Node  SSProvider - 香港 10  has been added.
+2024/03/07 Thu 20:37:08.388468 [3464592 10739128][VERB] Node  SSProvider - 香港 11  has been added.
+2024/03/07 Thu 20:37:08.388488 [3464592 10739128][VERB] Node  SSProvider - 🏷官网：eevpn.com  has been ignored and will not be added.
+2024/03/07 Thu 20:37:08.388508 [3464592 10739128][VERB] Node  SSProvider - 🏷国内免翻：55jiasu.com  has been added.
+2024/03/07 Thu 20:37:08.388528 [3464592 10739128][VERB] Node  SSProvider - 🏷邀请朋友获得20%佣金奖励  has been added.
+2024/03/07 Thu 20:37:08.388541 [3464592 10739128][VERB] Filter done.
+2024/03/07 Thu 20:37:08.388859 [3464592 10739128][INFO] Generate target: Clash
+2024/03/07 Thu 20:37:08.402755 [3464592 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2024/03/07 Thu 20:37:08.403574 [3464592 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2024/03/07 Thu 20:37:08.406229 [3464592 10739128][INFO] Generate completed.
+2024/03/07 Thu 20:37:08.409483 [3464592 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/03/07 Thu 20:37:08.409495 [3464592 10739128][INFO] Generating artifact 'test_profile'...
+2024/03/07 Thu 20:37:08.409715 [3464592 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/03/07 Thu 20:37:08.409738 [3464592 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/03/07 Thu 20:37:08.409827 [3464592 10739128][VERB] Imported 0 item(s).
+2024/03/07 Thu 20:37:08.409854 [3464592 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/03/07 Thu 20:37:08.410957 [3464592 10739128][VERB] Received Link.
+2024/03/07 Thu 20:37:08.411024 [3464592 10739128][INFO] Generate target: Clash
+2024/03/07 Thu 20:37:08.423832 [3464592 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2024/03/07 Thu 20:37:08.424669 [3464592 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2024/03/07 Thu 20:37:08.426256 [3464592 10739128][INFO] Generate completed.
+2024/03/07 Thu 20:37:08.429154 [3464592 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/03/07 Thu 20:37:08.429167 [3464592 10739128][INFO] All artifact generated. Exiting...

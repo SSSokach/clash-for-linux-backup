@@ -46,7 +46,7 @@ Clash订阅地址可访问！                                      [  OK  ]
 ```bash
 $ bash start.sh   # tmux
 
-$ source clash.sh
+$ source clash.sh   # 确保 clash.sh 和 conf/config.yaml 中的port完全一致
 $ proxy_on
 
 $ bash shutdown.sh
